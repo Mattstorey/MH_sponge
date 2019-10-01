@@ -1,2 +1,2 @@
 # MH_sponge
-scripts for read processing and assembly of sponge metagenomes 
+Script for read processing and assembly of sponge metagenomes. For prosparity and inclustion in publications.  
