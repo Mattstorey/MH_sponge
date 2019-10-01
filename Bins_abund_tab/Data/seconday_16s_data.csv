@@ -1,0 +1,62 @@
+,secondary_cluster,genome,identity,0,1,2,3,4,5
+0,1_1,MH-Pat_all_autometa_cluster_DBSCAN_round1_30.fasta,91.9454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospiraceae,uncultured
+1,1_1,MH_Pat-all_maxbin2_bins_bin.22.fasta,91.9454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospiraceae,uncultured
+2,1_1,sr_bins.25.fasta,,,,,,,
+3,1_1,sr_cluster_DBSCAN_round5_1.fasta,,,,,,,
+4,5_1,s1_maxbin2_bins_bin.22.fasta,,,,,,,
+5,5_1,s1_metabat2_bins_bin.31.fasta,,,,,,,
+6,5_1,s2_maxbin2_bins_bin.33.fasta,,,,,,,
+7,5_1,s2_metabat2_bins_bin.69.fasta,,,,,,,
+8,5_1,s3_metabat2_bins_bin.52.fasta,,,,,,,
+9,5_1,s5_maxbin2_bins_bin.3.fasta,,,,,,,
+10,5_1,s5_metabat2_bins_bin.42.fasta,,,,,,,
+11,6_1,s1_maxbin2_bins_bin.17.fasta,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,,
+12,6_1,s1_metabat2_bins_bin.52.fasta,,,,,,,
+13,6_1,s2_maxbin2_bins_bin.21.fasta,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,,
+14,6_1,s2_metabat2_bins_bin.15.fasta,,,,,,,
+15,6_1,s3_maxbin2_bins_bin.19.fasta,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,,
+16,6_1,s3_metabat2_bins_bin.4.fasta,,,,,,,
+17,6_1,s5_maxbin2_bins_bin.2.fasta,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,,
+18,6_1,s5_metabat2_bins_bin.46.fasta,,,,,,,
+19,12_1,MH-Pat_all_autometa_cluster_DBSCAN_round1_4.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+20,12_1,MH_Pat-all_maxbin2_bins_bin.9.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+21,12_1,s1_auto_cluster_DBSCAN_round2_11.fasta,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,,
+22,12_1,s1_concoct_bins_bin.26.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+23,12_1,s1_maxbin2_bins_bin.5.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+24,12_1,s1_metabat2_bins_bin.18.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+25,12_1,s2_auto_cluster_DBSCAN_round2_15.fasta,,,,,,,
+26,12_1,s2_concoct_bins_bin.49.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+27,12_1,s2_maxbin2_bins_bin.6.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+28,12_1,s2_metabat2_bins_bin.6.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+29,12_1,s3_auto_cluster_DBSCAN_round2_6.fasta,,,,,,,
+30,12_1,s3_concoct_bins_bin.112.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+31,12_1,s3_maxbin2_bins_bin.8.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+32,12_1,s3_metabat2_bins_bin.41.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+33,12_1,s5_auto_cluster_DBSCAN_round1_4.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+34,12_1,s5_concoct_bins_bin.65.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+35,12_1,s5_maxbin2_bins_bin.0.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+36,12_1,s5_metabat2_bins_bin.33.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+37,12_1,sr_bins.26.fasta,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+38,12_1,sr_cluster_DBSCAN_round3_6.fasta,,,,,,,
+39,15_1,s1_auto_cluster_DBSCAN_round1_1.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+40,15_1,s1_concoct_bins_bin.28.fasta,89.1874,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,
+41,15_1,s1_concoct_bins_bin.28.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+42,15_1,s1_maxbin2_bins_bin.10.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+43,15_1,s1_metabat2_bins_bin.51.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+44,15_1,s2_auto_cluster_DBSCAN_round3_2.fasta,,,,,,,
+45,15_1,s2_concoct_bins_bin.35.fasta,,,,,,,
+46,15_1,s2_maxbin2_bins_bin.27.fasta,100,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Escherichia-Shigella
+47,15_1,s2_metabat2_bins_bin.7.fasta,,,,,,,
+48,15_1,s3_auto_cluster_DBSCAN_round1_1.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+49,15_1,s3_concoct_bins_bin.136.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+50,15_1,s3_maxbin2_bins_bin.33.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+51,15_1,s3_metabat2_bins_bin.56.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+52,15_1,s5_auto_cluster_DBSCAN_round1_2.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+53,15_1,s5_concoct_bins_bin.22.fasta,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+54,15_1,s5_maxbin2_bins_bin.8.fasta,83.5358,Bacteria,Dadabacteria,Dadabacteriia,Dadabacteriales,,
+55,15_1,s5_metabat2_bins_bin.18.fasta,,,,,,,
+56,30_1,MH_Pat-all_maxbin2_bins_bin.16.fasta,95.8724,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Pseudohongiellaceae,Pseudohongiella
+57,30_1,sr_bins.30.fasta,,,,,,,
+58,30_1,sr_cluster_DBSCAN_round2_1.fasta,,,,,,,
+59,31_1,sr_bins.5.fasta,,,,,,,
+60,31_1,sr_cluster_DBSCAN_round2_15.fasta,,,,,,,

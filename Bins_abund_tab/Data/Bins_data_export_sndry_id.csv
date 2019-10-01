@@ -1,0 +1,29 @@
+,bin_name,Completeness,Contamination,Length,N50,16s_sequecne,identity,kingdom,phylum,class,order,family,genus
+0,MH-Pat_all_autometa_cluster_DBSCAN_round1_0,97.93,0,4021902,4011077,Yes,94.6964,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,-
+1,MH-Pat_all_autometa_cluster_DBSCAN_round1_1,96.11,0.68,3136281,3096896,Yes,90.3922,Bacteria,Kiritimatiellaeota,Kiritimatiellae,WCHB1-41,-,-
+2,MH-Pat_all_autometa_cluster_DBSCAN_round1_10,95.55,1.82,2755821,2124445,Yes,92.1311,Bacteria,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira
+3,MH-Pat_all_autometa_cluster_DBSCAN_round1_15,94.13,1.3,6333795,527237,Yes,94.9713,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospiraceae,Magnetospira
+4,MH-Pat_all_autometa_cluster_DBSCAN_round1_2,94.89,1.95,2650019,2650019,Yes,91.3506,Bacteria,Proteobacteria,Gammaproteobacteria,-,-,-
+5,MH-Pat_all_autometa_cluster_DBSCAN_round1_21,89.57,0.43,3076004,152800,Yes,97.3288,Bacteria,Proteobacteria,Alphaproteobacteria,-,-,-
+6,MH-Pat_all_autometa_cluster_DBSCAN_round1_3,98.12,0.45,3603164,3603164,Yes,95.9942,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,-
+7,MH-Pat_all_autometa_cluster_DBSCAN_round1_6,98.48,14.63,5786418,493850,Yes,94.1021,Bacteria,Proteobacteria,Gammaproteobacteria,UBA10353 marine group,-,-
+8,MH-Pat_all_autometa_cluster_DBSCAN_round1_8,96.92,1.23,4308001,4308001,Yes,93.5818,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Polaribacter 4
+9,MH-Pat_all_metabat2_bins_bin.16,98.54,0.97,1922110,1922110,Yes,98.8809,Archaea,Thaumarchaeota,Nitrososphaeria,Nitrosopumilales,Nitrosopumilaceae,Candidatus Nitrosopumilus
+10,MH-Pat_all_metabat2_bins_bin.32,94.12,0.84,1162547,1162547,Yes,85.6299,Bacteria,Dadabacteria,Dadabacteriia,Dadabacteriales,-,-
+11,MH-Pat_SR_metabat2_bins_bin.25,98.91,0,4111711,225473,Secondary,91.9454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospiraceae,-
+12,MH-Pat_SR_metabat2_bins_bin.5,90.7,1.22,3364909,13166,No,-,-,-,-,-,-,-
+13,MH-Pat_SR_autometa_cluster_DBSCAN_round1_1,96.7,12.69,9357837,71371,Yes,89.0838,Bacteria,PAUC34f,-,-,-,-
+14,MH-Pat_SR_autometa_cluster_DBSCAN_round2_1,94.26,0.74,4530449,1278197,Secondary,95.8724,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Pseudohongiellaceae,Pseudohongiella
+15,MH-Pat_SR_autometa_cluster_DBSCAN_round3_0,93.89,5.11,5820554,4647870,Yes,94.0594,Bacteria,Proteobacteria,Gammaproteobacteria,KI89A clade,-,-
+16,MH-Pat_SR_autometa_cluster_DBSCAN_round4_1,91.53,3.73,4192771,632675,Yes,95.3939,Bacteria,Proteobacteria,Gammaproteobacteria,-,-,-
+17,s1_metabat2_bins_bin.31,88.98,4.23,2230543,14038,No,-,-,-,-,-,-,-
+18,s2_auto_cluster_DBSCAN_round2_0,93.96,1.71,4814895,1042472,Yes,89.77,Bacteria,Acidobacteria,Subgroup 26,-,-,-
+19,s2_concoct_bins_bin.96,88.6,5.14,2981884,4417,Yes,95.2079,Bacteria,Actinobacteria,Acidimicrobiia,Microtrichales,Ilumatobacteraceae,Ilumatobacter
+20,s2_metabat2_bins_bin.7,98.91,0.54,2465303,67423,Secondary,99.5925,Bacteria,Cyanobacteria,Oxyphotobacteria,Synechococcales,Cyanobiaceae,Synechococcus CC9902
+21,s3_auto_cluster_DBSCAN_round2_24,88.53,3.08,1645618,8237,Yes,85.1562,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella
+22,s3_auto_cluster_DBSCAN_round2_6,98.67,0.6,4488480,32717,Secondary,98.2558,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudahrensia
+23,s3_metabat2_bins_bin.4,88.17,2.07,1664881,32671,Secondary,99.4788,Bacteria,Actinobacteria,Actinobacteria,PeM15,-,-
+24,s3_metabat2_bins_bin.60,95.01,1.39,3687245,26755,Yes,95.7713,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,-
+25,s5_auto_cluster_DBSCAN_round1_1,93.38,6.01,6864713,39368,Yes,94.6072,Bacteria,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Nitrosococcaceae,-
+,,,,,,,,,,,,,
+,,94.40615385,2.790769231,,,,,,,,,,
