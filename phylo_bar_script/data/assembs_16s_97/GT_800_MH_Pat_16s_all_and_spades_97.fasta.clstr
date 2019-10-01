@@ -1,0 +1,99 @@
+>Cluster 0
+0	1591aa, >16S_rRNA::scf718000... *
+1	1591aa, >16S_rRNA::NODE_698_... at 100.00%
+>Cluster 1
+0	1559aa, >16S_rRNA::NODE_1939... *
+>Cluster 2
+0	1555aa, >16S_rRNA::scf718000... *
+1	1555aa, >16S_rRNA::NODE_52_l... at 100.00%
+>Cluster 3
+0	1551aa, >16S_rRNA::NODE_1_le... *
+>Cluster 4
+0	1542aa, >16S_rRNA::scf718000... *
+1	1542aa, >16S_rRNA::NODE_4_le... at 100.00%
+>Cluster 5
+0	1541aa, >16S_rRNA::scf718000... *
+1	1541aa, >16S_rRNA::scf718000... at 99.81%
+2	1541aa, >16S_rRNA::scf718000... at 98.83%
+3	1541aa, >16S_rRNA::scf718000... at 98.77%
+4	1066aa, >16S_rRNA::NODE_1065... at 99.16%
+>Cluster 6
+0	1540aa, >16S_rRNA::scf718000... *
+1	1540aa, >16S_rRNA::NODE_1425... at 100.00%
+>Cluster 7
+0	1537aa, >16S_rRNA::scf718000... *
+1	1537aa, >16S_rRNA::NODE_194_... at 100.00%
+>Cluster 8
+0	1535aa, >16S_rRNA::scf718000... *
+1	1535aa, >16S_rRNA::NODE_28_l... at 100.00%
+>Cluster 9
+0	1535aa, >16S_rRNA::NODE_18_l... *
+>Cluster 10
+0	1532aa, >16S_rRNA::scf718000... *
+1	1413aa, >16S_rRNA::NODE_6372... at 100.00%
+>Cluster 11
+0	1529aa, >16S_rRNA::NODE_9712... *
+>Cluster 12
+0	1524aa, >16S_rRNA::NODE_529_... *
+>Cluster 13
+0	1516aa, >16S_rRNA::scf718000... *
+1	1516aa, >16S_rRNA::scf718000... at 100.00%
+2	1516aa, >16S_rRNA::NODE_1434... at 100.00%
+>Cluster 14
+0	1499aa, >16S_rRNA::scf718000... *
+1	1043aa, >16S_rRNA::NODE_962_... at 100.00%
+>Cluster 15
+0	1496aa, >16S_rRNA::NODE_2_le... *
+>Cluster 16
+0	1493aa, >16S_rRNA::scf718000... *
+1	1493aa, >16S_rRNA::scf718000... at 100.00%
+2	1493aa, >16S_rRNA::NODE_1271... at 100.00%
+>Cluster 17
+0	1493aa, >16S_rRNA::scf718000... *
+1	1493aa, >16S_rRNA::NODE_95_l... at 100.00%
+>Cluster 18
+0	1482aa, >16S_rRNA::scf718000... *
+1	1482aa, >16S_rRNA::NODE_4027... at 100.00%
+>Cluster 19
+0	1470aa, >16S_rRNA::NODE_1668... *
+>Cluster 20
+0	1465aa, >16S_rRNA::scf718000... *
+1	1465aa, >16S_rRNA::NODE_293_... at 100.00%
+>Cluster 21
+0	1465aa, >16S_rRNA::scf718000... *
+1	1465aa, >16S_rRNA::NODE_658_... at 100.00%
+>Cluster 22
+0	1464aa, >16S_rRNA::scf718000... *
+1	1464aa, >16S_rRNA::NODE_2351... at 100.00%
+>Cluster 23
+0	1168aa, >16S_rRNA::NODE_5270... *
+>Cluster 24
+0	1032aa, >16S_rRNA::NODE_4447... *
+>Cluster 25
+0	964aa, >16S_rRNA::scf718000... *
+>Cluster 26
+0	939aa, >16S_rRNA::NODE_1620... *
+>Cluster 27
+0	931aa, >16S_rRNA::scf718000... *
+1	931aa, >16S_rRNA::scf718000... at 100.00%
+2	931aa, >16S_rRNA::NODE_1416... at 100.00%
+>Cluster 28
+0	929aa, >16S_rRNA::scf718000... *
+1	929aa, >16S_rRNA::scf718000... at 99.89%
+2	929aa, >16S_rRNA::scf718000... at 99.89%
+3	929aa, >16S_rRNA::scf718000... at 99.89%
+4	929aa, >16S_rRNA::scf718000... at 99.89%
+5	929aa, >16S_rRNA::scf718000... at 99.89%
+6	929aa, >16S_rRNA::scf718000... at 99.89%
+7	929aa, >16S_rRNA::scf718000... at 99.89%
+8	929aa, >16S_rRNA::scf718000... at 99.89%
+9	929aa, >16S_rRNA::scf718000... at 99.89%
+10	929aa, >16S_rRNA::scf718000... at 99.89%
+11	929aa, >16S_rRNA::scf718000... at 99.89%
+12	929aa, >16S_rRNA::scf718000... at 99.78%
+13	929aa, >16S_rRNA::scf718000... at 99.68%
+14	929aa, >16S_rRNA::scf718000... at 99.78%
+15	929aa, >16S_rRNA::scf718000... at 99.78%
+16	929aa, >16S_rRNA::scf718000... at 99.68%
+17	929aa, >16S_rRNA::scf718000... at 99.68%
+18	927aa, >16S_rRNA::scf718000... at 99.14%
